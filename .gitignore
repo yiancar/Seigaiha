@@ -1,0 +1,5 @@
+packaging/Thank_you_Card_Seigaiha_Back.pdf
+packaging/Thank_you_Card_Seigaiha_Front.pdf
+*.sh
+*.hex
+/pcb/gerbers/*
