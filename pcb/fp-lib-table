@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name AI03_Random_parts)(type KiCad)(uri ${KIPRJMOD}/libraries/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name USB4085-GF-A_REVA)(type KiCad)(uri ${KIPRJMOD}/libraries/USB4085-GF-A_REVA.pretty)(options "")(descr ""))
+  (lib (name Seigaiha)(type KiCad)(uri ${KIPRJMOD}/libraries/Seigaiha.pretty)(options "")(descr ""))
+)
